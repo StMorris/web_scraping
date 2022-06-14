@@ -7,7 +7,7 @@
 
 
 ## To do    
-   - ###Extract all 140 Movies details and present in a structured form.
+   - ### Extract all Movie details and present them in a structured form.
     
        - #### Make a get request with requests function from the requests library
        - #### Choose a parser and create a beautiful soup object
@@ -20,4 +20,4 @@
        - #### Extract synopsis
        - #### Extract Adjusted score
        - #### Represent the data in a structured form
-       - #### Exporting data to csv, excel and json
+       - #### Export data to csv, excel and json
