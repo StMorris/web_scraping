@@ -3,7 +3,7 @@
     - https://editorial.rottentomatoes.com/guide/140-essential-action-movies-to-watch-now
 
 
-<img src = 'https://github.com/StMorris/web_scraping/blob/main/rotten_tomatoes_140_action_movies/resized_image.png'>
+<img src = 'https://github.com/StMorris/web_scraping/blob/main/rotten_tomatoes_140_action_movies/resized_imagee.png'>
 
 
 ## To do    
