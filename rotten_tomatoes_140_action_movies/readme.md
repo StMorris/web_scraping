@@ -1,4 +1,4 @@
-### Web Scraping Project on Rotten Tomatoes
+# Web Scraping Project on Rotten Tomatoes
 - 140 ESSENTIAL ACTION MOVIES TO WATCH NOW BY ROTTEN TOMATOES
     - https://editorial.rottentomatoes.com/guide/140-essential-action-movies-to-watch-now
 
